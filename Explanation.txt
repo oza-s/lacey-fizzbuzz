@@ -1,0 +1,8 @@
+1) We create a 2 static constant variable FIZZ and BUZZ
+2) We then run a for loop from 1 to 100
+3) We then check whether variable i is divisible by 3 and 5 using modulus(%) operator
+   If it is than 'i' is divisible by 3 and 5 we print FIZZBUZZ
+4) Else we check whether variable i is divisible by 3 using modulus(%) operator
+   If it is than 'i' is divisible by 3 we print FIZZ
+5) We then check whether variable i is divisible by 5 using modulus(%) operator
+   If it is than 'i' is divisible by 5 we print BUZZ
